@@ -3,8 +3,6 @@ A safety-focused web application designed to enhance personal safety in Atlanta.
 
 ---
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
